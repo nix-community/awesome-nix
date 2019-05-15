@@ -1,16 +1,18 @@
 # awesome-nixos
 
-A curated list of the best resources in the Nix community
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of the best resources in the NixOS community
 
 ## Resources
 
 ### Learning
 
-* [Nix Pills](https://nixos.org/nixos/nix-pills/) - Learn by examples
+* [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn by examples
 
 ### Newsletters
 
-* [NixOS Weekly](https://weekly.nixos.org/) - A weekly newsletter that contains community updates
+* [NixOS Weekly](https://weekly.nixos.org/) - The best newsletter to stay informed about community updates
 
 ## Cloud stuff
 
