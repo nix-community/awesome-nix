@@ -1,8 +1,8 @@
-# awesome-nixos
+# awesome-nixos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A curated list of the best resources in the NixOS community
 
-A curated list of the best resources in the NixOS community
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Resources
 
@@ -62,3 +62,12 @@ Generates a Nix expression for your Bundler-managed application.
 ### Rust
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
+
+## Community
+
+* [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
+* [Discourse](https://discourse.nixos.org/)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
