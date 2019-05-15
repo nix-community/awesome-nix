@@ -72,6 +72,7 @@ Generates a Nix expression for your Bundler-managed application.
 
 * [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
 * [Discourse](https://discourse.nixos.org/)
+* [Wiki](https://nixos.wiki)
 
 ## License
 
