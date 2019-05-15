@@ -28,6 +28,7 @@ Quickly locate nix packages with specific files.
 
 ## Development
 
+* [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 
