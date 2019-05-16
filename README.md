@@ -25,6 +25,9 @@
 
 * [nix-index](https://github.com/bennofs/nix-index) - 
 Quickly locate nix packages with specific files.
+* [nix-diff](https://github.com/Gabriel439/nix-diff) - 
+Explain why two Nix derivations differ.
+
 
 ## Development
 
