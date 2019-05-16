@@ -68,6 +68,12 @@ Generates a Nix expression for your Bundler-managed application.
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
 
+## Overlays
+
+* [home-manager](https://github.com/rycee/home-manager) - Manager user configuration just like NixOS.
+* [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+* [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
+
 ## Community
 
 * [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
