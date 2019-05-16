@@ -2,7 +2,7 @@
 
 > A curated list of the best resources in the NixOS community
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Resources
 
@@ -76,4 +76,4 @@ Generates a Nix expression for your Bundler-managed application.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
