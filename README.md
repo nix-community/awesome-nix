@@ -1,6 +1,6 @@
-# awesome-nixos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
+# awesome-nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
 
-> A curated list of the best resources in the NixOS community
+> A curated list of the best resources in the Nix community
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
