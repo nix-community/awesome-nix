@@ -28,7 +28,6 @@ Quickly locate nix packages with specific files.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - 
 Explain why two Nix derivations differ.
 
-
 ## Development
 
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
