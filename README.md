@@ -73,6 +73,7 @@ Generates a Nix expression for your Bundler-managed application.
 * [home-manager](https://github.com/rycee/home-manager) - Manager user configuration just like NixOS.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
+* [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays.
 
 ## Community
 
