@@ -16,7 +16,7 @@
 
 ## Cloud stuff
 
-* [nixops](https://github.com/svanderburg/node2nix) - Deploy using Nix.
+* [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 * [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
 * [nixos-generators](https://github.com/nix-community/nixos-generators) - one config, multiple formats.
