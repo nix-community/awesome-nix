@@ -75,6 +75,8 @@ Generates a Nix expression for your Bundler-managed application.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 
+Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
 
 ## Community
 
