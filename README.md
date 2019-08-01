@@ -25,6 +25,7 @@
 
 * [nix-index](https://github.com/bennofs/nix-index) - 
 Quickly locate nix packages with specific files.
+* [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums
 
 ## Development
 
