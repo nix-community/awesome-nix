@@ -57,8 +57,8 @@ Generate nix expressions from a yarn.lock file.
 
 ### Python
 
-* [pip2nix](https://github.com/johbo/pip2nix) - 
-Freeze pip-installable packages into Nix expressions.
+* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix
+  expressions for Python packages
 
 ### Ruby
 
