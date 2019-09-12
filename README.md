@@ -22,6 +22,7 @@
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
 * [nixos-generators](https://github.com/nix-community/nixos-generators) - one config, multiple formats.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
+* [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## Command-line tools
 
