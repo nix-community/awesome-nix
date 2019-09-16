@@ -74,6 +74,10 @@ Generates a Nix expression for your Bundler-managed application.
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
 
+## NixOS modules
+
+* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies
+
 ## Overlays
 
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays.
