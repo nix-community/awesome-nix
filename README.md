@@ -77,6 +77,7 @@ Generates a Nix expression for your Bundler-managed application.
 ## NixOS modules
 
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies
+* [nixos-mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver managed with NixOS modules.
 
 ## Overlays
 
