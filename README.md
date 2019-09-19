@@ -26,7 +26,7 @@
 
 ## Command-line tools
 
-* [nix-index](https://github.com/bennofs/nix-index) - 
+* [nix-index](https://github.com/bennofs/nix-index) -
 Quickly locate nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums
 
@@ -40,23 +40,23 @@ Quickly locate nix packages with specific files.
 
 ### Elm
 
-* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - 
+* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) -
 Elm language community tooling for Nix and NixOS users.
 
 ### Haskell
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) -
 Converts a Cabal file into a Nix build expression.
-* [snack](https://github.com/nmattia/snack/) - 
+* [snack](https://github.com/nmattia/snack/) -
 Nix-based incremental build tool for Haskell projects.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - 
+* [stack2nix](https://github.com/input-output-hk/stack2nix) -
 Generate nix expressions for Haskell projects.
 
 ### NodeJS
 
-* [napalm](https://github.com/nmattia/napalm) - 
+* [napalm](https://github.com/nmattia/napalm) -
 Support for building npm packages in Nix and lightweight npm registry.
-* [yarn2nix](https://github.com/moretea/yarn2nix) - 
+* [yarn2nix](https://github.com/moretea/yarn2nix) -
 Generate nix expressions from a yarn.lock file.
 * [node2nix](https://github.com/svanderburg/node2nix)
 
@@ -67,7 +67,7 @@ Generate nix expressions from a yarn.lock file.
 
 ### Ruby
 
-* [bundix](https://github.com/manveru/bundix) - 
+* [bundix](https://github.com/manveru/bundix) -
 Generates a Nix expression for your Bundler-managed application.
 
 ### Rust
@@ -86,7 +86,7 @@ Generates a Nix expression for your Bundler-managed application.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) -
 Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
 
 ## Community
