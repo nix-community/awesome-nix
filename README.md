@@ -73,6 +73,7 @@ Generates a Nix expression for your Bundler-managed application.
 
 ### Rust
 
+* [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
 
 ## NixOS modules
