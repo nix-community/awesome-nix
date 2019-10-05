@@ -94,6 +94,7 @@ Nix packages and nixos modules for Bitcoin nodes with higher layer protocols wit
 
 ## Community
 
+* [#nix:matrix.org (Unofficial)](https://matrix.to/#/#nix:matrix.org)
 * [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss nix-related topic.
