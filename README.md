@@ -15,6 +15,9 @@
 
 * [NixOS Weekly](https://weekly.nixos.org/) - The best newsletter to stay informed about community updates.
 
+## Install media
+* [Unattended Installation ISO](https://github.com/snabblab/snabblab-nixos/blob/master/make-iso.nix) - Create an ISO that installs NixOS without user intervention. 
+
 ## Cloud stuff
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweigt toolkit to deploy NixOS systems, remotely or locally.
