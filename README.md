@@ -53,6 +53,8 @@ Converts a Cabal file into a Nix build expression.
 Nix-based incremental build tool for Haskell projects.
 * [stack2nix](https://github.com/input-output-hk/stack2nix) -
 Generate nix expressions for Haskell projects.
+* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - 
+Automatic Haskell setup in Emacs
 
 ### NodeJS
 
