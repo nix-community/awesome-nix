@@ -15,8 +15,9 @@
 
 * [NixOS Weekly](https://weekly.nixos.org/) - The best newsletter to stay informed about community updates.
 
-## Install media
+## Install/Usage image
 * [Unattended Installation ISO](https://github.com/snabblab/snabblab-nixos/blob/master/make-iso.nix) - Create an ISO that installs NixOS without user intervention. 
+* [nixos-generators](https://github.com/nix-community/nixos-generators) - Take a nixos config and build multile usage images including VirtualBox, Azure, installation iso among other formats.
 
 ## Cloud stuff
 
@@ -25,7 +26,6 @@
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 * [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
-* [nixos-generators](https://github.com/nix-community/nixos-generators) - one config, multiple formats.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
