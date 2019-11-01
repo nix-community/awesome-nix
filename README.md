@@ -11,9 +11,22 @@
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn by examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
+### Grokking
+
+* [Hound](https://search.nix.gsc.io) - Handy search across all or selected nix related repos. 
+
 ### Newsletters
 
 * [NixOS Weekly](https://weekly.nixos.org/) - The best newsletter to stay informed about community updates.
+
+## Installation Media
+
+* [nixos-generators](https://github.com/nix-community/nixos-generators) -  Take a nixos config and build multile usage images including VirtualBox, Azure, installation iso among other formats.
+
+## Channel History 
+
+* [HowOldIs](https://howoldis.herokuapp.com) - Get the age/current git commit of all Nix channels.
+* [Channel History](https://channels.nix.gsc.io)- Get historical git commits for Nix channels.
 
 ## Cloud stuff
 
@@ -22,7 +35,6 @@
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 * [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
-* [nixos-generators](https://github.com/nix-community/nixos-generators) - one config, multiple formats.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
