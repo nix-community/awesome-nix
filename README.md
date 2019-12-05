@@ -38,6 +38,10 @@
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
+## High Performance Computing
+
+* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - Nix for High Performance Computing link collection.
+
 ## Command-line tools
 
 * [nix-index](https://github.com/bennofs/nix-index) -
@@ -106,6 +110,7 @@ Generates a Nix expression for your Bundler-managed application.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) -
 Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
+* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets
 
 ## Community
 
