@@ -80,6 +80,10 @@ Support for building npm packages in Nix and lightweight npm registry.
 Generate nix expressions from a yarn.lock file.
 * [node2nix](https://github.com/svanderburg/node2nix)
 
+### PureScript
+
+* [easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix
+
 ### Python
 
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix
