@@ -8,6 +8,7 @@
 
 ### Learning
 
+* [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn by examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
