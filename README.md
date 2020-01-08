@@ -54,6 +54,13 @@ Quickly locate nix packages with specific files.
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
+* [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - 
+Run linters/formatters at commit time and on your CI
+* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 
+Most feature complete and easy to use .gitignore integration
+* [arion](https://github.com/hercules-ci/arion) -
+Run docker-compose with help from Nix/NixOS 
+* [Cachix](https://cachix.org/) - Hosted binary cache service
 
 ## Programming languages
 
@@ -61,6 +68,8 @@ Quickly locate nix packages with specific files.
 
 * [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) -
 Elm language community tooling for Nix and NixOS users.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - 
+Convert elm.json into Nix expressions
 
 ### Haskell
 
@@ -72,6 +81,8 @@ Nix-based incremental build tool for Haskell projects.
 Generate nix expressions for Haskell projects.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - 
 Automatic Haskell setup in Emacs
+* [haskell.nix](https://github.com/input-output-hk/haskell.nix) - 
+Alternative Haskell Infrastructure for Nixpkgs
 
 ### NodeJS
 
