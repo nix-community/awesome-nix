@@ -45,7 +45,9 @@
 
 ## Command-line tools
 
-* [nix-index](https://github.com/bennofs/nix-index) -
+* [nix-diff](https://github.com/Gabriel439/nix-diff) - 
+Explain why two Nix derivations differ.
+* [nix-index](https://github.com/bennofs/nix-index) - 
 Quickly locate nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums
 
