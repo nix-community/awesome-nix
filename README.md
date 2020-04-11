@@ -103,6 +103,7 @@ Generate nix expressions from a yarn.lock file.
 
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix
   expressions for Python packages
+* [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](http://python-poetry.org/) poetry.lock. No conversion step needed.
 
 ### Ruby
 
