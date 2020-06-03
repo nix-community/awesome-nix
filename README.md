@@ -55,6 +55,7 @@ Quickly locate nix packages with specific files.
 ## Development
 
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
+* [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacementt that uses caching to open subsequent shells quickly. 
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - 
