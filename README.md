@@ -23,6 +23,8 @@
 
 ## Command-line tools
 
+* [nixfmt](https://github.com/serokell/nixfmt) -
+A formatter for Nix code, intended to easily apply a uniform style.
 * [nix-index](https://github.com/bennofs/nix-index) - 
 Quickly locate nix packages with specific files.
 
@@ -41,8 +43,6 @@ Elm language community tooling for Nix and NixOS users.
 
 ### Haskell
 
-* [nixfmt](https://github.com/serokell/nixfmt) -
-A formatter for Nix code, intended to easily apply a uniform style.
 * [snack](https://github.com/nmattia/snack/) - 
 Nix-based incremental build tool for Haskell projects.
 * [stack2nix](https://github.com/input-output-hk/stack2nix) - 
