@@ -47,6 +47,8 @@
 ## Command-line tools
 
 * [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
+* [nixfmt](https://github.com/serokell/nixfmt) -
+A formatter for Nix code, intended to easily apply a uniform style.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - 
 Explain why two Nix derivations differ.
 * [nix-index](https://github.com/bennofs/nix-index) - 
