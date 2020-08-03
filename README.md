@@ -26,8 +26,8 @@
 
 ## Channel History 
 
-* [HowOldIs](https://howoldis.herokuapp.com) - Get the age/current git commit of all Nix channels.
 * [Channel History](https://channels.nix.gsc.io)- Get historical git commits for Nix channels.
+* [Nix Infra Status](https://status.nixos.org) - Get the age/current git commit of all Nix channels.
 
 ## Cloud stuff
 
