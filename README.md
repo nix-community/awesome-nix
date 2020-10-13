@@ -12,6 +12,7 @@
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn by examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers getting things done using the Nix ecosystem.
+* [Tour of Nix](https://nixcloud.io/tour) - Online interactive tutorial on Nix language constructs.
 
 ### Grokking
 
