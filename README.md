@@ -17,6 +17,7 @@
 ### Grokking
 
 * [Hound](https://search.nix.gsc.io) - Handy search across all or selected nix related repos. 
+* [Nixpkgs Database](https://kamadorueda.github.io/nixpkgs-db/) - A database with Nix packages at all versions, from all channels.
 
 ### Newsletters
 
