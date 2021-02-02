@@ -121,7 +121,7 @@ Generates a Nix expression for your Bundler-managed application.
 ### Rust
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
-* [fenix](https://github.com/figsoda/fenix) - Rust nightly toolchains and rust analyzer nightly for nix
+* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
 
 ## NixOS modules
