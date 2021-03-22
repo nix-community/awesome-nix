@@ -1,4 +1,4 @@
-# awesome-nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
+# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
 
 > A curated list of the best resources in the Nix community
 
