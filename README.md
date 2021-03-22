@@ -85,7 +85,7 @@
 ### NodeJS
 
 * [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix and lightweight npm registry.
-* [node2nix](https://github.com/svanderburg/node2nix)
+* [node2nix](https://github.com/svanderburg/node2nix) - Generate nix expressions from a package.lock npm file.
 * [yarn2nix](https://github.com/moretea/yarn2nix) - Generate nix expressions from a yarn.lock file.
 
 ### PureScript
