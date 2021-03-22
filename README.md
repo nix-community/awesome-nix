@@ -50,57 +50,42 @@
 ## Command-line tools
 
 * [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
-* [nixfmt](https://github.com/serokell/nixfmt) -
-A formatter for Nix code, intended to easily apply a uniform style.
-* [nix-diff](https://github.com/Gabriel439/nix-diff) - 
-Explain why two Nix derivations differ.
-* [nix-index](https://github.com/bennofs/nix-index) - 
-Quickly locate nix packages with specific files.
+* [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+* [nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ.
+* [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums
 
 ## Development
 
-* [arion](https://github.com/hercules-ci/arion) -
-Run docker-compose with help from Nix/NixOS 
+* [arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS 
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacementt that uses caching to open subsequent shells quickly. 
 * [Cachix](https://cachix.org/) - Hosted binary cache service
-* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 
-Most feature complete and easy to use .gitignore integration
+* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Most feature complete and easy to use .gitignore integration
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
-* [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - 
-Run linters/formatters at commit time and on your CI
+* [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI
 
 ## Programming languages
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - 
-Convert elm.json into Nix expressions
-* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) -
-Elm language community tooling for Nix and NixOS users.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions
+* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - Elm language community tooling for Nix and NixOS users.
 
 ### Haskell
 
-* [cabal2nix](https://github.com/NixOS/cabal2nix) -
-Converts a Cabal file into a Nix build expression.
-* [snack](https://github.com/nmattia/snack/) -
-Nix-based incremental build tool for Haskell projects.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) -
-Generate nix expressions for Haskell projects.
-* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - 
-Automatic Haskell setup in Emacs
-* [haskell.nix](https://github.com/input-output-hk/haskell.nix) - 
-Alternative Haskell Infrastructure for Nixpkgs
+* [cabal2nix](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+* [snack](https://github.com/nmattia/snack/) - Nix-based incremental build tool for Haskell projects.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
+* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs
+* [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 
 ### NodeJS
 
-* [napalm](https://github.com/nmattia/napalm) -
-Support for building npm packages in Nix and lightweight npm registry.
+* [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix and lightweight npm registry.
 * [node2nix](https://github.com/svanderburg/node2nix)
-* [yarn2nix](https://github.com/moretea/yarn2nix) -
-Generate nix expressions from a yarn.lock file.
+* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate nix expressions from a yarn.lock file.
 
 ### PureScript
 
@@ -110,13 +95,11 @@ Generate nix expressions from a yarn.lock file.
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](http://python-poetry.org/) poetry.lock. No conversion step needed.
-* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix
-  expressions for Python packages
+* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages
 
 ### Ruby
 
-* [bundix](https://github.com/manveru/bundix) -
-Generates a Nix expression for your Bundler-managed application.
+* [bundix](https://github.com/manveru/bundix) - Generates a Nix expression for your Bundler-managed application.
 
 ### Rust
 
@@ -134,8 +117,7 @@ Generates a Nix expression for your Bundler-managed application.
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets
 * [home-manager](https://github.com/rycee/home-manager) - Manager user configuration just like NixOS.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) -
-Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding edge Wayland packages.
