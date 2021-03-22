@@ -68,6 +68,7 @@ Run docker-compose with help from Nix/NixOS
 Most feature complete and easy to use .gitignore integration
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
+* [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - 
 Run linters/formatters at commit time and on your CI
