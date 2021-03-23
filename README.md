@@ -13,7 +13,6 @@
 * [Installation Media](#installation-media)
 * [Channel History](#channel-history)
 * [Cloud Stuff](#cloud-stuff)
-* [High Performance Computing](#high-performance-computing)
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
 * [Programming Languages](#programming-languages)
@@ -66,10 +65,6 @@
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
-
-## High Performance Computing
-
-* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - Nix for High Performance Computing link collection.
 
 ## Command-Line Tools
 
