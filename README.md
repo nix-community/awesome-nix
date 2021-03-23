@@ -1,6 +1,6 @@
 # Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
 
-> A curated list of the best resources in the Nix community
+> A curated list of the best resources in the Nix community.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -61,7 +61,7 @@
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweigt toolkit to deploy NixOS systems, remotely or locally.
 * [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
-* [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix
+* [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix.
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS.
@@ -77,25 +77,25 @@
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ.
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
-* [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums
+* [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums.
 
 ## Development
 
-* [arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS 
+* [arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacementt that uses caching to open subsequent shells quickly. 
-* [Cachix](https://cachix.org/) - Hosted binary cache service
-* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Most feature complete and easy to use .gitignore integration
+* [Cachix](https://cachix.org/) - Hosted binary cache service.
+* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Most feature complete and easy to use .gitignore integration.
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
-* [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI
+* [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## Programming languages
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions.
 * [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - Elm language community tooling for Nix and NixOS users.
 
 ### Haskell
@@ -103,8 +103,8 @@
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
 * [snack](https://github.com/nmattia/snack/) - Nix-based incremental build tool for Haskell projects.
 * [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
-* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs
-* [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
+* [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### NodeJS
 
@@ -114,13 +114,13 @@
 
 ### PureScript
 
-* [easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix
+* [easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix.
 
 ### Python
 
-* [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments
+* [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](http://python-poetry.org/) poetry.lock. No conversion step needed.
-* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages
+* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Ruby
 
@@ -129,18 +129,18 @@
 ### Rust
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
-* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix
+* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
 
 ## NixOS modules
 
 * [Musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS.
-* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies
+* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver managed with NixOS modules.
 
 ## Overlays
 
-* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets
+* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
 * [home-manager](https://github.com/rycee/home-manager) - Manager user configuration just like NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and nixos modules for Bitcoin nodes with higher layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
