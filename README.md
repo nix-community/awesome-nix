@@ -2,6 +2,8 @@
 
 > A curated list of the best resources in the Nix community.
 
+[Nix](https://github.com/nixos/nix) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
