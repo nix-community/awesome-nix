@@ -4,6 +4,30 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
+## Contents
+
+* [Resources](#resources)
+    * [Learning](#learning)
+    * [Grokking](#grokking)
+    * [Newsletters](#newsletters)
+* [Installation Media](#installation-media)
+* [Channel History](#channel-history)
+* [Cloud Stuff](#cloud-stuff)
+* [High Performance Computing](#high-performance-computing)
+* [Command-Line Tools](#command-line-tools)
+* [Development](#development)
+* [Programming Languages](#programming-languages)
+    * [Elm](#elm)
+    * [Haskell](#haskell)
+    * [NodeJS](#nodejs)
+    * [PureScript](#purescript)
+    * [Python](#python)
+    * [Ruby](#ruby)
+    * [Rust](#rust)
+* [NixOS Modules](#nixos-modules)
+* [Overlays](#overlays)
+* [Community](#community)
+
 ## Resources
 
 ### Learning
