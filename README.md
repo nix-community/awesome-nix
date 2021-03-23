@@ -19,7 +19,7 @@
 * [Programming Languages](#programming-languages)
     * [Elm](#elm)
     * [Haskell](#haskell)
-    * [NodeJS](#nodejs)
+    * [Node.js](#nodejs)
     * [PureScript](#purescript)
     * [Python](#python)
     * [Ruby](#ruby)
@@ -56,7 +56,7 @@
 * [Channel History](https://channels.nix.gsc.io)- Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age/current git commit of all Nix channels.
 
-## Cloud stuff
+## Cloud Stuff
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweigt toolkit to deploy NixOS systems, remotely or locally.
 * [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
@@ -71,7 +71,7 @@
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - Nix for High Performance Computing link collection.
 
-## Command-line tools
+## Command-Line Tools
 
 * [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
@@ -91,7 +91,7 @@
 * [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
-## Programming languages
+## Programming Languages
 
 ### Elm
 
@@ -106,7 +106,7 @@
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
-### NodeJS
+### Node.js
 
 * [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix and lightweight npm registry.
 * [node2nix](https://github.com/svanderburg/node2nix) - Generate nix expressions from a package.lock npm file.
@@ -132,7 +132,7 @@
 * [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
 
-## NixOS modules
+## NixOS Modules
 
 * [Musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies.
