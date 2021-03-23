@@ -135,7 +135,7 @@
 ## NixOS Modules
 
 * [Musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS.
-* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - focuses on ease of deployment of web-related technologies.
+* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Focuses on ease of deployment of web-related technologies.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver managed with NixOS modules.
 
 ## Overlays
