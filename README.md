@@ -10,11 +10,11 @@
 
 * [Resources](#resources)
     * [Learning](#learning)
-    * [Grokking](#grokking)
+    * [Discovery](#discovery)
     * [Newsletters](#newsletters)
 * [Installation Media](#installation-media)
 * [Channel History](#channel-history)
-* [Cloud Stuff](#cloud-stuff)
+* [Deployment Tools](#deployment-tools)
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
 * [Programming Languages](#programming-languages)
@@ -39,7 +39,7 @@
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 
-### Grokking
+### Discovery
 
 * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
 * [Nixpkgs Database](https://kamadorueda.github.io/nixpkgs-db/) - A database with Nix packages at all versions, from all channels.
@@ -57,7 +57,7 @@
 * [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 
-## Cloud Stuff
+## Deployment Tools
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 * [kubenix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
