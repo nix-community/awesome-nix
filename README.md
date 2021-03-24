@@ -1,4 +1,4 @@
-# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="nixos">](https://nixos.org)
+# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="NixOS">](https://nixos.org)
 
 > A curated list of the best resources in the Nix community.
 
@@ -41,7 +41,7 @@
 
 ### Grokking
 
-* [Hound](https://search.nix.gsc.io) - Handy search across all or selected nix related repos. 
+* [Hound](https://search.nix.gsc.io) - Handy search across all or selected Nix related repos. 
 * [Nixpkgs Database](https://kamadorueda.github.io/nixpkgs-db/) - A database with Nix packages at all versions, from all channels.
 
 ### Newsletters
@@ -50,7 +50,7 @@
 
 ## Installation Media
 
-* [nixos-generators](https://github.com/nix-community/nixos-generators) -  Take a nixos config and build multile usage images including VirtualBox, Azure, installation iso among other formats.
+* [nixos-generators](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multile usage images including VirtualBox, Azure, installation iso among other formats.
 
 ## Channel History 
 
@@ -60,7 +60,7 @@
 ## Cloud Stuff
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweigt toolkit to deploy NixOS systems, remotely or locally.
-* [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
+* [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using Nix.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 * [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix.
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
@@ -73,7 +73,7 @@
 * [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ.
-* [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
+* [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - Universal tool to update source checksums.
 
 ## Development
@@ -85,7 +85,7 @@
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-* [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in nixpkgs is building properly.
+* [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## Programming Languages
@@ -99,15 +99,15 @@
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
 * [snack](https://github.com/nmattia/snack/) - Nix-based incremental build tool for Haskell projects.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate Nix expressions for Haskell projects.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Node.js
 
 * [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix and lightweight npm registry.
-* [node2nix](https://github.com/svanderburg/node2nix) - Generate nix expressions from a package.lock npm file.
-* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate nix expressions from a yarn.lock file.
+* [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a package.lock npm file.
+* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate Nix expressions from a yarn.lock file.
 
 ### PureScript
 
@@ -126,7 +126,7 @@
 ### Rust
 
 * [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
-* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
+* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for Nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
 
 ## NixOS Modules
@@ -150,5 +150,5 @@
 * [#nix:matrix.org (Unofficial)](https://matrix.to/#/#nix:matrix.org)
 * [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
-* [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss nix-related topic.
+* [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topic.
 * [Wiki (Unofficial)](https://nixos.wiki)
