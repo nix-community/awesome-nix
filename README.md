@@ -92,8 +92,7 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
-* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - Elm language community tooling for Nix and NixOS users.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions.
 
 ### Haskell
 
