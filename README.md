@@ -78,10 +78,10 @@
 
 ## Development
 
-* [arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS.
+* [arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacementt that uses caching to open subsequent shells quickly. 
 * [Cachix](https://cachix.org/) - Hosted binary cache service.
-* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Most feature complete and easy to use .gitignore integration.
+* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Most feature complete and easy to use `.gitignore` integration.
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
@@ -92,7 +92,7 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
 * [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - Elm language community tooling for Nix and NixOS users.
 
 ### Haskell
@@ -106,8 +106,8 @@
 ### Node.js
 
 * [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix and lightweight npm registry.
-* [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a package.lock npm file.
-* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate Nix expressions from a yarn.lock file.
+* [node2nix](https://github.com/svanderburg/node2nix) - Generate nix expressions from a `package.lock` npm file.
+* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate nix expressions from a `yarn.lock` file.
 
 ### PureScript
 
@@ -116,7 +116,7 @@
 ### Python
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
-* [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) poetry.lock. No conversion step needed.
+* [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](http://python-poetry.org/) `poetry.lock`. No conversion step needed.
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Ruby
@@ -125,9 +125,9 @@
 
 ### Rust
 
-* [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the Cargo.lock files produced by cargo to Nix expressions.
-* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for Nix.
-* [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from Cargo.lock. No conversion step needed.
+* [carnix](https://nest.pijul.com/pmeunier/carnix) - Carnix is a compiler from the `Cargo.lock` files produced by cargo to Nix expressions.
+* [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
+* [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 
 ## NixOS Modules
 
