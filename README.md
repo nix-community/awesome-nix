@@ -92,14 +92,12 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
-* [Nix Elm Tools](https://github.com/turboMaCk/nix-elm-tools) - Elm language community tooling for Nix and NixOS users.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions.
 
 ### Haskell
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-* [snack](https://github.com/nmattia/snack/) - Nix-based incremental build tool for Haskell projects.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate Nix expressions for Haskell projects.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
