@@ -60,11 +60,11 @@
 ## Cloud Stuff
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-* [kubenix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
+* [KubeNix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
-* [nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
-* [nixops](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
+* [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+* [NixOps](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
@@ -79,14 +79,14 @@
 
 ## Development
 
-* [arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
+* [Arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-* [nix-review](https://github.com/Mic92/nix-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
+* [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## Programming Languages
@@ -104,13 +104,13 @@
 
 ### Node.js
 
-* [napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
+* [Napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
 * [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a `package.lock` npm file.
-* [yarn2nix](https://github.com/moretea/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
+* [yarn2nix](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
 
 ### PureScript
 
-* [easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
+* [Easy PureScript Nix](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
 
 ### Python
 
@@ -120,24 +120,24 @@
 
 ### Ruby
 
-* [bundix](https://github.com/manveru/bundix) - Generates a Nix expression for your Bundler-managed application.
+* [Bundix](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
 
 ### Rust
 
-* [carnix](https://nest.pijul.com/pmeunier/carnix) - A compiler from the `Cargo.lock` files produced by cargo to Nix expressions.
+* [carnix](https://crates.io/crates/carnix) - A compiler from the `Cargo.lock` files produced by cargo to Nix expressions.
 * [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 
 ## NixOS Modules
 
-* [Musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
+* [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-* [home-manager](https://github.com/rycee/home-manager) - Manage your user configuration just like NixOS.
+* [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
