@@ -61,6 +61,7 @@
 
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweigt toolkit to deploy NixOS systems, remotely or locally.
 * [kubenix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using Nix.
+* [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 * [nixery](https://github.com/google/nixery) - Container registry which builds images ad-hoc via Nix.
 * [nixops](https://github.com/NixOS/nixops) - Deploy using Nix.
