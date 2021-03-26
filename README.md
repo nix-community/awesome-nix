@@ -8,6 +8,7 @@
 
 ## Contents
 
+* [Official](#official)
 * [Resources](#resources)
     * [Learning](#learning)
     * [Discovery](#discovery)
@@ -28,6 +29,12 @@
 * [NixOS Modules](#nixos-modules)
 * [Overlays](#overlays)
 * [Community](#community)
+
+## Official
+
+* [Website](https://nixos.org)
+* [Documentation](https://nixos.org/learn)
+* [Package Repository](https://github.com/nixos/nixpkgs)
 
 ## Resources
 
