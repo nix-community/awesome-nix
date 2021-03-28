@@ -124,7 +124,6 @@
 
 ### Rust
 
-* [carnix](https://crates.io/crates/carnix) - A compiler from the `Cargo.lock` files produced by cargo to Nix expressions.
 * [fenix](https://github.com/nix-community/fenix) - Rust nightly toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
