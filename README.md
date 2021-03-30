@@ -18,6 +18,7 @@
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
 * [Programming Languages](#programming-languages)
+    * [Arduino](#arduino)
     * [Elm](#elm)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
@@ -90,6 +91,10 @@
 * [pre-commit-hooks.nix](https://github.com/hercules-ci/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## Programming Languages
+
+### Arduino
+
+* [nixduino](https://github.com/boredom101/nixduino) - Nix based tool to help build arduino sketches.
 
 ### Elm
 
