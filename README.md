@@ -61,6 +61,7 @@
 
 ## Deployment Tools
 
+* [colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 * [KubeNix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
