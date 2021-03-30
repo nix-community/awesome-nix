@@ -94,7 +94,7 @@
 
 ### Arduino
 
-* [nixduino](https://github.com/boredom101/nixduino) - Nix based tool to help build arduino sketches.
+* [nixduino](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
 ### Elm
 
