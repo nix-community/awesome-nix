@@ -19,6 +19,7 @@
 * [Development](#development)
 * [Programming Languages](#programming-languages)
     * [Arduino](#arduino)
+    * [Crystal](#crystal)
     * [Elm](#elm)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
@@ -95,6 +96,10 @@
 ### Arduino
 
 * [nixduino](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+
+### Crystal
+
+* [crystal2nix](https://github.com/nix-community/crystal2nix) - Convert shard.lock into Nix expressions.
 
 ### Elm
 
