@@ -61,7 +61,7 @@
 
 ## Deployment Tools
 
-* [colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [Colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
 * [KubeNix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
@@ -100,11 +100,11 @@
 
 ### Crystal
 
-* [crystal2nix](https://github.com/nix-community/crystal2nix) - Convert shard.lock into Nix expressions.
+* [crystal2nix](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert elm.json into Nix expressions.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
 
 ### Haskell
 
