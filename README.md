@@ -35,6 +35,7 @@
 
 ### Learning
 
+* [Nix Learning](https://github.com/humancalico/nix-learning) -  A bunch of links to blog posts, articles, videos, etc for learning all things Nix.
 * [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
