@@ -164,7 +164,7 @@
 ## Community
 
 * [#nix:matrix.org (Unofficial)](https://matrix.to/#/#nix:matrix.org)
-* [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
+* [#nixos on Libera.Chat](ircs://irc.libera.chat:6697/nixos/nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
