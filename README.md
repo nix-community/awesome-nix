@@ -45,7 +45,7 @@
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
-* [Nixpkgs Database](https://kamadorueda.github.io/nixpkgs-db/) - A database with Nix packages at all versions, from all channels.
+* [NixDB](https://4shells.com/nixdb) - A database with Nix packages at all versions, from all channels.
 
 ### Newsletters
 
