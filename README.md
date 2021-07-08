@@ -123,7 +123,8 @@
 ### Node.js
 
 * [Napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
-* [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions from a `package.lock` npm file.
+* [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package-lock.json` (to be stored as files).
+* [npmlock2nix](https://github.com/tweag/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
 
 ### PHP
