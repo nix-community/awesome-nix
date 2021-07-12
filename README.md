@@ -153,7 +153,9 @@
 
 * [fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## NixOS Modules
 
@@ -167,10 +169,8 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## Community
 
