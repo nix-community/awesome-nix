@@ -170,6 +170,7 @@
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## Community
 
