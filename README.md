@@ -60,6 +60,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
 
@@ -91,6 +92,8 @@
 * [Arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
+* [devshell](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+* [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
@@ -151,7 +154,9 @@
 
 * [fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## NixOS Modules
 
@@ -165,7 +170,6 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with bleeding-edge Rust and Firefox.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
