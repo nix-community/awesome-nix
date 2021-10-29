@@ -45,7 +45,6 @@
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
-* [NixDB](https://4shells.com/nixdb) - A database with Nix packages at all versions, from all channels.
 
 ### Newsletters
 
