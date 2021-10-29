@@ -86,6 +86,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+* [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## Development
 
