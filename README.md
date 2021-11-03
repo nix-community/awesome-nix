@@ -177,7 +177,7 @@
 ## Community
 
 * [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
-* [#nixos on Libera.Chat](ircs://irc.libera.chat:6697/nixos/nixos)
+* [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
