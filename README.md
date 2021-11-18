@@ -28,6 +28,7 @@
     * [Python](#python)
     * [Ruby](#ruby)
     * [Rust](#rust)
+    * [Scala](#scala)
 * [NixOS Modules](#nixos-modules)
 * [Overlays](#overlays)
 * [Community](#community)
@@ -158,6 +159,10 @@
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla's overlay with Rust toolchains and Firefox.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+
+### Scala
+
+* [sbt-derivation](https://github.com/zaninime/sbt-derivation) -  mkDerivation for sbt, similar to buildGoModule.
 
 ## NixOS Modules
 
