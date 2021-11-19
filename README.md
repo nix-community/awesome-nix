@@ -162,7 +162,8 @@
 
 ### Scala
 
-* [sbt-derivation](https://github.com/zaninime/sbt-derivation) -  mkDerivation for sbt, similar to buildGoModule.
+* [sbt-derivation](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
+* [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - giter8 template for new Scala projects with Nix support.
 
 ## NixOS Modules
 
