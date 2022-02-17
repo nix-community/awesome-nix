@@ -140,8 +140,10 @@
 ### PHP
 
 * [composer2nix](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+* [composer-plugin-nixify](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
 * [composition-c4](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
 * [nix-phps](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+* [nix-shell](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### PureScript
 
