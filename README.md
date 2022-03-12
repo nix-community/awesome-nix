@@ -63,6 +63,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
