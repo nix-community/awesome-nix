@@ -177,6 +177,7 @@
 ## NixOS Modules
 
 * [base16.nix](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+* [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
@@ -184,7 +185,6 @@
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-* [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
