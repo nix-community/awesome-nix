@@ -39,7 +39,7 @@
 
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 * [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
-* [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn, with examples.
+* [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
@@ -74,7 +74,7 @@
 * [KubeNix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
-* [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+* [Nixery](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 * [NixOps](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
@@ -84,12 +84,12 @@
 ## Command-Line Tools
 
 * [alejandra](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
-* [comma](https://github.com/Shopify/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
+* [comma](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
-* [nix-diff](https://github.com/Gabriel439/nix-diff) - A tool to explain why two Nix derivations differ.
+* [nix-diff](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
@@ -103,7 +103,7 @@
 * [devshell](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
-* [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development that augments direnv.
+* [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere. 
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
@@ -123,7 +123,7 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
+* [elm2nix](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
 
 ### Haskell
 
@@ -131,14 +131,12 @@
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [nixkell](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
 
 ### Node.js
 
-* [Napalm](https://github.com/nmattia/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
+* [Napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.
 * [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
-* [npmlock2nix](https://github.com/tweag/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
-* [yarn2nix](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file.
+* [npmlock2nix](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 
 ### PHP
 
@@ -175,7 +173,6 @@
 ### Scala
 
 * [sbt-derivation](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
-* [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - giter8 template for new Scala projects with Nix support.
 
 ## NixOS Modules
 
