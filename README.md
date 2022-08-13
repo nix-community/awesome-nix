@@ -163,6 +163,7 @@
 ### Rust
 
 * [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Granular caching, development shell, Nix & Rust integration.
+* [crane](https://github.com/ipetkov/crane) - A Nix library for building Cargo projects with incremental artifact caching.
 * [fenix](https://github.com/nix-community/fenix) - Rust toolchains and Rust analyzer nightly for nix.
 * [naersk](https://github.com/nmattia/naersk) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
