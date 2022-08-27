@@ -17,6 +17,7 @@
 * [Deployment Tools](#deployment-tools)
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
+* [Nix Cache](#nix-cache)
 * [Programming Languages](#programming-languages)
     * [Arduino](#arduino)
     * [Crystal](#crystal)
@@ -112,6 +113,13 @@
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+
+## Nix Cache
+
+* [nix-serve](https://github.com/edolstra/nix-serve) -  A standalone Nix binary cache server by Eelco Dolstra 
+* [local-nix-cache](https://github.com/andir/local-nix-cache) - A "poor and hacky attempt" at re-serving local nix packages that came from trusted sources
+* [peerix](https://github.com/cid-chan/peerix) -  Peer2Peer Nix-Binary-Cache
+* [harmonia](https://github.com/helsinki-systems/harmonia) -  Nix binary cache implemented reimplementation with http-ranges for broken downloads
 
 ## Programming Languages
 
