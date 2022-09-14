@@ -30,6 +30,7 @@
     * [Rust](#rust)
     * [Scala](#scala)
 * [NixOS Modules](#nixos-modules)
+* [NixOS Configuration Editors](#nixos-configuration-editors)
 * [Overlays](#overlays)
 * [Community](#community)
 
@@ -186,6 +187,25 @@
 * [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+
+## NixOS Configuration Editors
+
+See also [Command-Line Tools](#command-line-tools)
+
+It's surprisingly hard to build a good config editor for NixOS,
+so please lower your expectations.
+
+### Desktop apps
+
+* [nix-gui](https://github.com/nix-gui/nix-gui) - Desktop app in Python and Qt. Abandoned.
+* [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK.
+* [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Desktop app in Rust and GTK.
+* [Nixos-Gui](https://github.com/Celestialme/Nixos-Gui) - Desktop app in JavaScript, Svelte, Tauri.
+* [nixui](https://github.com/matejc/nixui) - Desktop app in JavaScript, NodeWebkit. Old.
+
+### Webinterface
+
+* [mynixos.com](https://mynixos.com/) - Create and share software configurations using the NixOS ecosystem.
 
 ## Overlays
 
