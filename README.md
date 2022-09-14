@@ -103,6 +103,7 @@
 ### Editing
 
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
+* [nix-editor](https://github.com/vlinkz/nix-editor) - Modify Nix files on the command line.
 
 ### Derivations
 
