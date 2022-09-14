@@ -16,6 +16,7 @@
 * [Channel History](#channel-history)
 * [Deployment Tools](#deployment-tools)
 * [Command-Line Tools](#command-line-tools)
+* [Nix Interpreters](#nix-interpreters)
 * [Development](#development)
 * [Programming Languages](#programming-languages)
     * [Arduino](#arduino)
@@ -94,6 +95,14 @@
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+
+## Nix Interpreters
+
+aka: Nix Evaluators
+
+* [nix](https://github.com/NixOS/nix) - Original implementation in C++.
+* [Toros](https://github.com/kamadorueda/toros) - Nix implementation in Rust. Based on the [NixEL](https://github.com/kamadorueda/nixel) parser.
+* [nix-eval-js](https://github.com/milahu/nix-eval-js) - Nix interpreter in JavaScript. Proof of concept. Based on the [lezer-parser-nix](https://github.com/milahu/lezer-parser-nix) parser.
 
 ## Development
 
