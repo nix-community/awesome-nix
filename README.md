@@ -192,7 +192,7 @@
 
 ### Desktop apps
 
-* [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Desktop app in Rust and GTK.
+* [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
 * [nix-software-center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
 
 ### Webinterface
