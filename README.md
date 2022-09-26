@@ -30,6 +30,7 @@
     * [Rust](#rust)
     * [Scala](#scala)
 * [NixOS Modules](#nixos-modules)
+* [NixOS Configuration Editors](#nixos-configuration-editors)
 * [Overlays](#overlays)
 * [Community](#community)
 
@@ -191,6 +192,17 @@
 * [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+
+## NixOS Configuration Editors
+
+### Desktop apps
+
+* [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
+* [Nix Software Center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
+
+### Webinterface
+
+* [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
 ## Overlays
 

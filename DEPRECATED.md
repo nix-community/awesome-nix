@@ -8,6 +8,7 @@ Here lie the following former awesome-list members as they have been archived, d
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
     * [Scala](#scala)
+* [NixOS Configuration Editors](#nixos-configuration-editors)
 
 ## Programming Languages
 
@@ -23,3 +24,9 @@ Here lie the following former awesome-list members as they have been archived, d
 
 * [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - giter8 template for new Scala projects with Nix support. (Archived)
 
+## NixOS Configuration Editors
+
+* [Nix-Gui](https://github.com/nix-gui/nix-gui) - Desktop app in Python and Qt. (Unmaintained)
+* [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK. (Unmaintained)
+* [Nixos-Gui](https://github.com/Celestialme/Nixos-Gui) - Desktop app in JavaScript, Svelte, Tauri. (Unmaintained)
+* [NixUI](https://github.com/matejc/nixui) - Desktop app in JavaScript, NodeWebkit. (Unmaintained)
