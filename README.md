@@ -190,8 +190,6 @@
 
 ## NixOS Configuration Editors
 
-See also [Command-Line Tools](#command-line-tools)
-
 ### Desktop apps
 
 * [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Desktop app in Rust and GTK.
