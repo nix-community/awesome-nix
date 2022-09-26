@@ -192,9 +192,6 @@
 
 See also [Command-Line Tools](#command-line-tools)
 
-It's surprisingly hard to build a good config editor for NixOS,
-so please lower your expectations.
-
 ### Desktop apps
 
 * [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK.
