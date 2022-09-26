@@ -193,11 +193,11 @@
 ### Desktop apps
 
 * [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Graphical editor for NixOS configuration. Desktop app in Rust and GTK.
-* [nix-software-center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
+* [nix-software-center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages, both imperatively and declaratively. Desktop app in Rust and GTK.
 
 ### Webinterface
 
-* [mynixos.com](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
+* [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
 ## Overlays
 
