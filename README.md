@@ -197,7 +197,7 @@
 
 ### Webinterface
 
-* [mynixos.com](https://mynixos.com/) - Create and share software configurations using the NixOS ecosystem.
+* [mynixos.com](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
 ## Overlays
 
