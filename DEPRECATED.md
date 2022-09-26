@@ -27,4 +27,6 @@ Here lie the following former awesome-list members as they have been archived, d
 ## NixOS Configuration Editors
 
 * [nix-gui](https://github.com/nix-gui/nix-gui) - Desktop app in Python and Qt. (Unmaintained)
+* [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK. (Unmaintained)
+* [Nixos-Gui](https://github.com/Celestialme/Nixos-Gui) - Desktop app in JavaScript, Svelte, Tauri. (Unmaintained)
 * [nixui](https://github.com/matejc/nixui) - Desktop app in JavaScript, NodeWebkit. (Unmaintained)
