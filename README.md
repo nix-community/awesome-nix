@@ -194,10 +194,8 @@ See also [Command-Line Tools](#command-line-tools)
 
 ### Desktop apps
 
-* [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK.
 * [nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - Desktop app in Rust and GTK.
 * [nix-software-center](https://github.com/vlinkz/nix-software-center) - Install and manage Nix packages. Desktop app in Rust and GTK.
-* [Nixos-Gui](https://github.com/Celestialme/Nixos-Gui) - Desktop app in JavaScript, Svelte, Tauri.
 
 ### Webinterface
 
