@@ -15,6 +15,7 @@
 * [Installation Media](#installation-media)
 * [Channel History](#channel-history)
 * [Deployment Tools](#deployment-tools)
+* [Virtualisation](#virtualisation)
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
 * [DevOps](#devops)
@@ -80,10 +81,14 @@
 * [Nixery](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 * [NixOps](https://github.com/NixOS/nixops) - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
-* [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
+
+## Virtualisation
+* [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+* [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
+* [microvm](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
 
 ## Command-Line Tools
 
