@@ -175,6 +175,7 @@
 ### Ruby
 
 * [Bundix](https://github.com/nix-community/bundix) - Generates a Nix expression for your Bundler-managed application.
+* [ruby-nix](https://github.com/sagittaros/ruby-nix) - Generates reproducible ruby/bundler app environment with Nix.
 
 ### Rust
 
