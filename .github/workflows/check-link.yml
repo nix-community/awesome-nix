@@ -13,13 +13,13 @@ jobs:
       - uses: actions/checkout@v2
       - name: lychee Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.0.6
+        uses: lycheeverse/lychee-action@v1.5.4
       - name: Comment on failure
         uses: peter-evans/create-or-update-comment@v1
-        if:  ${{ failure() }}
+        if: env.lychee_exit_code != 0
         with:
           issue-number: 73
           body: |
             A link check [failed](https://github.com/nix-community/awesome-nix/actions/runs/${{ github.run_id }}).
       - name: Fail if there were link errors
-        run: exit ${{ steps.lychee.outputs.exit_code }}
+        run: exit ${{ env.lychee_exit_code }}
