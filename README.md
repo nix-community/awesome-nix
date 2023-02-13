@@ -129,10 +129,11 @@
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+* [runix](https://github.com/flox/runix) - A typesafe Rust interface to the nix CLI.
 
 ## DevOps
 
-* [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere. 
+* [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [Standard](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## Programming Languages
