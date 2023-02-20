@@ -174,7 +174,7 @@
 ### PureScript
 
 * [Easy PureScript Nix](https://github.com/justinwoo/easy-purescript-nix) - A project to easily use PureScript and other tools with Nix.
-* [purs-nix](https://github.com/purs-nix/purs-nix) - Manage your PureScript projects with Nix.
+* [purs-nix](https://github.com/purs-nix/purs-nix) - CLI and library combo designed for managing PureScript projects using Nix. It provides a Nix API that can be used within your projects, as well as a command-line interface for managing your development process.
 
 ### Python
 
