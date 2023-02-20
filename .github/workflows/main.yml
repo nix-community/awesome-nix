@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - run: |
+          github_token=${{ secrets.GITHUB_TOKEN }} npx awesome-lint
