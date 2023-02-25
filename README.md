@@ -21,6 +21,7 @@
 * [DevOps](#devops)
 * [Programming Languages](#programming-languages)
     * [Arduino](#arduino)
+    * [Clojure](#clojure)
     * [Crystal](#crystal)
     * [Elm](#elm)
     * [Haskell](#haskell)
@@ -141,6 +142,10 @@
 ### Arduino
 
 * [nixduino](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
+
+### Clojure
+
+* [clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helper functions for Clojure projects.
 
 ### Crystal
 
