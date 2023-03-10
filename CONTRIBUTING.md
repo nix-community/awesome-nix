@@ -12,4 +12,6 @@ Make sure your pull request follows these guidelines:
 - Double check your spelling and grammar! 😁
 - Keep entries sorts alphabetically by the title.
 
+See also the upstream Awesome project's [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) and [manifesto/requirements](https://github.com/sindresorhus/awesome/blob/main/awesome.md). Some of the more basic entry formatting requirements are checked via a [awesome-lint](https://github.com/sindresorhus/awesome-lint) GitHub Action; run it locally first if you can!
+
 Thanks for contributing!
