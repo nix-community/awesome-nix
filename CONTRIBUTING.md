@@ -8,7 +8,7 @@ Make sure your pull request follows these guidelines:
 - Use the following format: `[Resource Title](url) — description.`
 - Expand on why the resource is useful in your pull request if needed.
 - Keep descriptions short and simple.
-- Adding new categories, or improving existing categories is welcome!
+- Add new categories or improve existing categories if possible -- it's welcome!
 - Double check your spelling and grammar! 😁
 - Keep entries sorted alphabetically by title.
 
