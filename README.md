@@ -145,7 +145,7 @@
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
-### Reference Utilties
+### Reference Utilities
 
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
