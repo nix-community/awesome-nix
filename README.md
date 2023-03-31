@@ -20,7 +20,7 @@
 * [Command-Line Tools](#command-line-tools)
     * [Formatters](#formatters)
     * [Linters](#linters)
-    * [Language Servers](#linters)
+    * [Language Servers](#language-servers)
     * [Shell Utilities](#shell-utilities)
     * [Reference Utilities](#reference-utilities)
     * [Packaging Utilities](#packaging-utilities)
