@@ -43,7 +43,7 @@
     * [Rust](#rust)
     * [Scala](#scala)
     * [Terraform](#terraform)
-* [NixOS Modules](#nixos-modules)
+* [NixOS Frameworks and Modules](#nixos-frameworks-and-modules)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
     * [Desktop Applications](#desktop-applications)
     * [Web Interfaces](#web-interfaces)
