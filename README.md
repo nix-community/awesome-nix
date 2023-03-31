@@ -26,7 +26,7 @@
     * [Packaging Utilities](#packaging-utilities)
     * [Derivation Utilities](#derivation-utilities)
 * [Generic Frameworks and Tools](#generic-frameworks-and-tools)
-* [Language-Specific Frameworks and Tools](#language-specific-frameworks-and-tools)
+* [Language-specific Frameworks and Tools](#language-specific-frameworks-and-tools)
     * [Arduino Sketch](#arduino-sketch)
     * [Clojure](#clojure)
     * [Crystal](#crystal)
