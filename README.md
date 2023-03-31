@@ -48,7 +48,7 @@
     * [Desktop Applications](#desktop-applications)
     * [Web Interfaces](#web-interfaces)
 * [3rd-Party Package Repositories and Overlays](#3rd-party-package-repositories-and-overlays)
-* [Community](#community)
+* [Community Resources](#community-resources)
 
 ## Resources
 
