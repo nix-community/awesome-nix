@@ -143,9 +143,9 @@
 
 ## Continuous Integration
 
-- [Hercules CI](https://hercules-ci.com/) - Non free continuous integration service for Nix.
-- [Hydra](https://github.com/NixOS/hydra) - Official Nix-based continuous build system.
-- [Typhon CI](https://github.com/typhon-ci/typhon) - Nix-based continuous integration software inspired by Hydra.
+* [Hercules CI](https://hercules-ci.com/) - Non free continuous integration service for Nix.
+* [Hydra](https://github.com/NixOS/hydra) - Official Nix-based continuous build system.
+* [Typhon CI](https://github.com/typhon-ci/typhon) - Nix-based continuous integration software inspired by Hydra.
 
 ## Artificial Intelligence
 
