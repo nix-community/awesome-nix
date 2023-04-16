@@ -26,6 +26,7 @@
     * [Elm](#elm)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
+    * [OCaml] (#ocaml)
     * [PHP](#php)
     * [PureScript](#purescript)
     * [Python](#python)
