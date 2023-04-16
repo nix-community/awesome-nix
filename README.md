@@ -172,6 +172,10 @@
 * [node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expression from a `package.json` (or `package-lock.json`) (to be stored as files).
 * [npmlock2nix](https://github.com/nix-community/npmlock2nix) - Generate Nix expressions from a `package-lock.json` (in-memory), primarily for web projects.
 
+### OCaml
+
+* [opam2nix](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+
 ### PHP
 
 * [composer2nix](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
