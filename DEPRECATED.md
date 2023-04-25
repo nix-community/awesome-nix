@@ -7,6 +7,7 @@ Here lie the following former awesome-list members as they have been archived, d
 * [Programming Languages](#programming-languages)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
+    * [Python](#python)
     * [Scala](#scala)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
 
@@ -19,6 +20,10 @@ Here lie the following former awesome-list members as they have been archived, d
 ### Node.js
 
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - Generate Nix expressions from a `yarn.lock` file. (Archived)
+
+### Python
+
+* [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Scala
 
