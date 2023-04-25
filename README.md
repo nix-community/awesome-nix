@@ -193,6 +193,7 @@
 ### Python
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
+* [pip2nix](https://github.com/nix-community/pip2nix) - A repository-agnostic Python package generator tool.
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
