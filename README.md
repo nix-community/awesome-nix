@@ -35,7 +35,7 @@
     * [Scala](#scala)
 * [NixOS Modules](#nixos-modules)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
-* [NixOS Base Configurations](#nixos-base-configurations)
+* [Configuration Templates](#configuration-templates)
 * [Overlays](#overlays)
 * [Community](#community)
 
@@ -242,7 +242,7 @@
 
 * [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
-## NixOS Base Configurations
+## Configuration Templates
 
 * [NixOS Config Base](https://github.com/dch82/NixOS-Config-Base) - Basic modularized configuration for NixOS, with support for Home Manager
 
