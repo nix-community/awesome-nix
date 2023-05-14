@@ -244,7 +244,7 @@
 
 ## Configuration Templates
 
-* [NixOS Config Base](https://github.com/dch82/NixOS-Config-Base) - Basic modularized configuration for NixOS, with support for Home Manager
+* [NixOS Config Base](https://github.com/dch82/NixOS-Config-Base) - Basic modularized configuration for NixOS and Home Manager
 
 ## Overlays
 
