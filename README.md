@@ -126,7 +126,7 @@
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - A lightweight Nix library flake for painless NixOS flake configuration.
-* [flox](https://github.com/flox/flox) - command line tool that helps you manage your environments.
+* [flox](https://github.com/flox/flox) - Manage and share development environments, package projects and publish artifacts anywhere.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
