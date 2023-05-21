@@ -42,13 +42,23 @@
 
 ### Learning
 
+* [Zero to Nix](https://zero-to-nix.com/) - Quickly onboard onto Nix and get a run through of the ecosystem.
+* [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A very good introduction to Nix concepts and main features.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
-* [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
-* [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
-* [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
-* [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
+* [Nix Shorts](https://github.com/alper/nix-shorts) - A collection of short notes about Nix.
+* [Nix Pills](https://nixos.org/guides/nix-pills/) - In depth notes about Nix nitty gritty, not for beginners.
+* [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - About creating a Rust application but treats a lot of Nix as well and is _very_ thorough.
+
+#### Nix Language
+
+* [Nix language basics](https://nix.dev/tutorials/first-steps/nix-language) - A full rundown of the Nix language.
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
+
+#### NixOS
+
+* [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+
 
 ### Discovery
 
