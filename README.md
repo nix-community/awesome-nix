@@ -48,7 +48,7 @@
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 * [Nix Shorts](https://github.com/alper/nix-shorts) - A collection of short notes about Nix.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - In depth notes about Nix nitty gritty, not for beginners.
-* [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - About creating a Rust application but treats a lot of Nix as well and is _very_ thorough.
+* [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - About creating a Rust application but treats a lot of Nix as well and is *very* thorough.
 
 #### Nix Language
 
