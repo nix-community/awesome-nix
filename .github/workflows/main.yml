@@ -8,8 +8,9 @@ jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - run: |
-          github_token=${{ secrets.GITHUB_TOKEN }} npx awesome-lint
+      - run: npx awesome-lint
+        env:
+          github_token: ${{secrets.GITHUB_TOKEN}}
