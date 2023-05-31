@@ -7,6 +7,7 @@ Make sure your pull request follows these guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Title](url) — description.`
 - Expand on why the resource is useful in your pull request if needed.
+- Any added projects should be at least 30 days old.
 - Keep descriptions short and simple.
 - Add new categories or improve existing categories if possible -- it's welcome!
 - Double check your spelling and grammar! 😁
