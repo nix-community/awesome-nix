@@ -48,6 +48,7 @@
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
+* [Zero to Nix](https://zero-to-nix.com/) - Quickly onboard onto Nix and get a run through of the ecosystem.
 
 ### Discovery
 
