@@ -42,6 +42,7 @@
 
 ### Learning
 
+* [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - About creating a Rust application but treats a lot of Nix as well and is *very* thorough.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 * [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
