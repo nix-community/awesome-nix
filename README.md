@@ -11,7 +11,6 @@
 * [Resources](#resources)
     * [Learning](#learning)
     * [Discovery](#discovery)
-    * [Newsletters](#newsletters)
 * [Installation Media](#installation-media)
 * [Channel History](#channel-history)
 * [Deployment Tools](#deployment-tools)
@@ -59,10 +58,6 @@
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
-
-### Newsletters
-
-* [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
 
 ## Installation Media
 
