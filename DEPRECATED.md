@@ -4,12 +4,20 @@ Here lie the following former awesome-list members as they have been archived, d
 
 ## Contents
 
+* [Resources](#resources)
+    * [Newsletters](#newsletters)
 * [Programming Languages](#programming-languages)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
     * [Python](#python)
     * [Scala](#scala)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
+
+## Resources
+
+### Newsletters
+
+* [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates. (Last update was made in 2021)
 
 ## Programming Languages
 
