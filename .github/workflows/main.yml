@@ -4,13 +4,23 @@ on:
     branches:
       - main
       - master
+
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
+      - uses: cachix/install-nix-action@v22
+        with:
+          extra_nix_config: |
+            system-features = benchmark big-parallel kvm nixos-test
+          github_access_token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-      - run: npx awesome-lint
+          ssh-key: ${{ secrets.REPO_KEY }}
+          fetch-depth: 0 # Needed for repository age check
+
+      - name: Run awesome-lint
+        run: nix run github:NixOS/nixpkgs/nixos-unstable#nodePackages.awesome-lint
         env:
-          github_token: ${{secrets.GITHUB_TOKEN}}
+          github_token: ${{ secrets.GITHUB_TOKEN }}

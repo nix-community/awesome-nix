@@ -3,8 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    # Run monthly
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1 * *" # Run monthly
 
 jobs:
   linkChecker:
@@ -14,25 +13,28 @@ jobs:
         uses: actions/cache@v3
         with:
           path: .lycheecache
-          key: cache-lychee-${{github.sha}}
+          key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
       - uses: actions/checkout@v3
+        with:
+          ssh-key: ${{ secrets.REPO_KEY }}
 
       - name: lychee Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: "--cache --max-cache-age 1d --verbose --no-progress './**/*.md'"
+          args: "--cache --max-cache-age 1d --verbose --no-progress README.md"
+          token: ${{ github.token }}
           fail: true
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Comment on failure
         uses: peter-evans/create-or-update-comment@v3
         if: env.lychee_exit_code != 0
         with:
+          token: ${{ github.token }}
           issue-number: 73
           body: |
-            A link check [failed](https://github.com/nix-community/awesome-nix/actions/runs/${{github.run_id}}).
+            A link check job [failed](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}).
+
       - name: Fail if there were link errors
-        run: exit ${{env.lychee_exit_code}}
+        run: exit '${{ env.lychee_exit_code }}'
