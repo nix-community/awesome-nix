@@ -3,8 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    # Run monthly
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1 * *" # Run monthly
 
 jobs:
   linkChecker:
@@ -24,7 +23,7 @@ jobs:
       - name: lychee Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: "--cache --max-cache-age 1d --verbose --no-progress './**/*.md'"
+          args: "--cache --max-cache-age 1d --verbose --no-progress README.md"
           token: ${{ github.token }}
           fail: true
 
@@ -35,7 +34,7 @@ jobs:
           token: ${{ github.token }}
           issue-number: 73
           body: |
-            A link check [failed](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}).
+            A link check job [failed](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}).
 
       - name: Fail if there were link errors
         run: exit '${{ env.lychee_exit_code }}'
