@@ -49,6 +49,7 @@
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
+* [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 * [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
 
