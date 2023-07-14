@@ -149,6 +149,7 @@
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 * [Snowfall Lib](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
+* [templates](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
 
 ## DevOps
 
