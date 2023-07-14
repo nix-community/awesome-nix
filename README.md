@@ -232,7 +232,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
-* [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
