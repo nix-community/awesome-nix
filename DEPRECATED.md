@@ -32,6 +32,7 @@ Here lie the following former awesome-list members as they have been archived, d
 ### Python
 
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
+* [mach-nix](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
 
 ### Scala
 
