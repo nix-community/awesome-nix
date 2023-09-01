@@ -92,6 +92,7 @@
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
+* [tf-ncl](https://github.com/tweag/tf-ncl] - A Terraform wrapper that reads configuration files in [Nickel](https://github.com/tweag/nickel) instead of HCL, which enables composable code+data and contracts, that is more robust and concise.
 
 ## Virtualisation
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
