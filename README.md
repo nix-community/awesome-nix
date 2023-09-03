@@ -32,6 +32,7 @@
     * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
+    * [Zig](#zig)
 * [NixOS Modules](#nixos-modules)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
 * [Overlays](#overlays)
@@ -224,6 +225,10 @@
 ### Scala
 
 * [sbt-derivation](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
+
+### Zig
+
+* [zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
 
