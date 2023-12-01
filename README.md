@@ -60,7 +60,6 @@
 * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
-* [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 
 ## Installation Media
