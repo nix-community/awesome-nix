@@ -153,6 +153,7 @@
 
 ## DevOps
 
+* [Hercules CI](https://hercules-ci.com/) - A Nix-based CI/CD service for building on any hardware.
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [Standard](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
