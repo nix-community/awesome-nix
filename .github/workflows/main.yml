@@ -9,7 +9,7 @@ jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: cachix/install-nix-action@v25
+      - uses: cachix/install-nix-action@v26
         with:
           extra_nix_config: |
             system-features = benchmark big-parallel kvm nixos-test
