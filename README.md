@@ -125,6 +125,7 @@
 
 ## Development
 
+* [attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 * [Arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
 * [Cachix](https://cachix.org/) - Hosted binary cache service; free for open-source projects.
