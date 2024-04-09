@@ -276,4 +276,5 @@
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+* [Wiki (Official)](https://wiki.nixos.org)
 * [Wiki (Unofficial)](https://nixos.wiki)
