@@ -69,7 +69,7 @@
 * [nixos-generators](https://github.com/nix-community/nixos-generators) -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 * [nixos-infect](https://github.com/elitak/nixos-infect) - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
-* [nix-installer](https://github.com/DeterminateSystems/nix-installer) - Opinonated alternative to the official Nix install scripts.
+* [nix-installer](https://github.com/DeterminateSystems/nix-installer) - Opinionated alternative to the official Nix install scripts.
 * [nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Runs the official installer but does some tweaking as well such as adding fcontext for selinux and installing nix outside of the default profile so you don't accidently uninstall it.
 
 ## Channel History
@@ -250,6 +250,7 @@
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-topology](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+* [impermanence](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## NixOS Configuration Editors
 
