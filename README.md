@@ -109,6 +109,7 @@
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+* [nh](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
 * [nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
