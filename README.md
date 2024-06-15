@@ -24,6 +24,7 @@
     * [Crystal](#crystal)
     * [Elm](#elm)
     * [Haskell](#haskell)
+    * [Haxe](#haxe)
     * [Node.js](#nodejs)
     * [OCaml](#ocaml)
     * [PHP](#php)
@@ -189,6 +190,10 @@
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [nixkell](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+
+### Haxe
+* [haxix](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
+* [kebab](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
 ### Node.js
 
