@@ -89,7 +89,7 @@
 * [comin](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
-* [KubeNix](https://github.com/xtruder/kubenix) - A Kubernetes resource builder using Nix.
+* [KubeNix](https://github.com/hall/kubenix) - A Kubernetes resource builder using Nix.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - Single-dependency Kubernetes clusters via Nix packages.
 * [morph](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 * [Nixery](https://github.com/tazjin/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
