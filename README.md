@@ -187,7 +187,7 @@
 
 ### Gleam
 
-* [nix-gleam](https://github.com/arnarg/nix-gleam) - Generic nix builder for gleam applications.
+* [nix-gleam](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
 ### Haskell
 
