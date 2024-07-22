@@ -23,6 +23,7 @@
     * [Clojure](#clojure)
     * [Crystal](#crystal)
     * [Elm](#elm)
+    * [Gleam](#gleam)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
     * [Node.js](#nodejs)
@@ -184,6 +185,10 @@
 ### Elm
 
 * [elm2nix](https://github.com/cachix/elm2nix) - Convert `elm.json` into Nix expressions.
+
+### Gleam
+
+* [nix-gleam](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
 ### Haskell
 
