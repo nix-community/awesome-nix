@@ -18,6 +18,8 @@
 * [Command-Line Tools](#command-line-tools)
 * [Development](#development)
 * [DevOps](#devops)
+* [Continuous Integration](#continuous-integration)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Programming Languages](#programming-languages)
     * [Arduino](#arduino)
     * [Clojure](#clojure)
@@ -168,6 +170,16 @@
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Standard](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+
+## Continuous Integration
+
+* [Hercules CI](https://hercules-ci.com/) - Non free continuous integration service for Nix.
+* [Hydra](https://github.com/NixOS/hydra) - Official Nix-based continuous build system.
+* [Typhon CI](https://github.com/typhon-ci/typhon) - Nix-based continuous integration software inspired by Hydra.
+
+## Artificial Intelligence
+
+* [Nixified AI](https://nixified.ai/) - Making AI reproducible and easy to run.
 
 ## Programming Languages
 
