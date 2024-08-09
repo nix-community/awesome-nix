@@ -262,6 +262,7 @@
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NüschtOS Modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
