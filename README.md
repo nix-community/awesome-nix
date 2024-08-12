@@ -294,6 +294,7 @@
 ## Distributions
 
 * [NixNG](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [nixbsd](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel
 
 ## Community
 
