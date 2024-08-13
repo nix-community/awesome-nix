@@ -294,7 +294,7 @@
 ## Distributions
 
 * [NixNG](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
-* [SnowflakeOS](https://snowflakeos.org/) - A NixOS based Linux distribution focused on beginner friendliness and ease of use.
+* [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community
 
