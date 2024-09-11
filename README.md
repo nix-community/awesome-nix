@@ -169,7 +169,7 @@
 
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
-* [Nix Gitlab CI](https://gitlab.com/technofab/nix-gitlab-ci) - Define Gitlab CI pipelines in pure Nix with full access to all Nix packages (incl. caching)
+* [Nix GitLab CI](https://gitlab.com/technofab/nix-gitlab-ci) - Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).
 * [Standard](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## Programming Languages
