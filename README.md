@@ -264,7 +264,6 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
-* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
