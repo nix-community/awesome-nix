@@ -12,6 +12,7 @@ Here lie the following former awesome-list members as they have been archived, d
     * [Python](#python)
     * [Scala](#scala)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
+* [NixOS Modules](#nixos-modules)
 
 ## Resources
 
@@ -45,3 +46,7 @@ Here lie the following former awesome-list members as they have been archived, d
 * [nixos-manager](https://github.com/pmiddend/nixos-manager) - Desktop app in Haskell and GTK. (Unmaintained)
 * [Nixos-Gui](https://github.com/Celestialme/Nixos-Gui) - Desktop app in JavaScript, Svelte, Tauri. (Unmaintained)
 * [NixUI](https://github.com/matejc/nixui) - Desktop app in JavaScript, NodeWebkit. (Unmaintained)
+
+## Nixos Modules
+
+* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
