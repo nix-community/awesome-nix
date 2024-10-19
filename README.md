@@ -159,7 +159,7 @@
 * [nix-update](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 * [nixd](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
-* [npins](https://github.com/andir/npins) - npins is a simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
+* [npins](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
