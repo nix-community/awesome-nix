@@ -264,6 +264,7 @@
 * [base16.nix](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+* [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
