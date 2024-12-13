@@ -21,7 +21,7 @@ jobs:
           ssh-key: ${{ secrets.REPO_KEY }}
 
       - name: lychee Link Checker
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
           args: "--cache --max-cache-age 1d --verbose --no-progress README.md"
           token: ${{ github.token }}
