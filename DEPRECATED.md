@@ -20,6 +20,10 @@ Here lie the following former awesome-list members as they have been archived, d
 
 * [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates. (Last update was made in 2021)
 
+## Command-Line Tools
+
+* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) formatter is now [nixfmt](https://github.com/NixOS/nixfmt).
+
 ## Programming Languages
 
 ### Haskell
