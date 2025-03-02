@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Restore lychee cache
-        uses: actions/cache@v4
+        id: cache-load
+        uses: actions/cache/restore@v4
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -21,15 +22,17 @@ jobs:
           ssh-key: ${{ secrets.REPO_KEY }}
 
       - name: lychee Link Checker
-        uses: lycheeverse/lychee-action@v1
+        id: lychee
+        uses: lycheeverse/lychee-action@f613c4a64e50d792e0b31ec34bbcbba12263c6a6
         with:
           args: "--cache --max-cache-age 1d --verbose --no-progress README.md"
           token: ${{ github.token }}
           fail: false
 
       - name: Comment on failure
+        id: fail-comment
         uses: peter-evans/create-or-update-comment@v4
-        if: env.lychee_exit_code != 0
+        if: steps.lychee.outputs.exit_code != 0
         with:
           token: ${{ github.token }}
           issue-number: 73
@@ -37,4 +40,13 @@ jobs:
             A link check job [failed](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}).
 
       - name: Fail if there were link errors
+        id: fail-if-error
         run: exit '${{ env.lychee_exit_code }}'
+
+      - name: Save lychee cache
+        id: cache-save
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.cache-load.outputs.cache-primary-key }}
