@@ -41,7 +41,8 @@ jobs:
 
       - name: Fail if there were link errors
         id: fail-if-error
-        run: exit '${{ env.lychee_exit_code }}'
+        if: steps.lychee.outputs.exit_code != 0
+        run: exit '${{ steps.lychee.outputs.exit_code }}'
 
       - name: Save lychee cache
         id: cache-save
