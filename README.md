@@ -155,6 +155,7 @@
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+* [MCP-NixOS](https://github.com/utensils/mcp-nixos) - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and nix-darwin configurations.
 * [namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 * [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
