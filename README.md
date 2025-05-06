@@ -62,8 +62,8 @@
 * [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 * [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
 * [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
-* [Nix](https://nixos.org/manual/nix/stable), [Nixpkgs](https://nixos.org/manual/nixpkgs/stable) and [NixOS](https://nixos.org/manual/nixos/stable) manuals - The (large) manuals from the official website
-* [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format
+* [Nix](https://nixos.org/manual/nix/stable), [Nixpkgs](https://nixos.org/manual/nixpkgs/stable) and [NixOS](https://nixos.org/manual/nixos/stable) manuals - The (large) manuals from the official website.
+* [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format.
 
 ### Discovery
 
