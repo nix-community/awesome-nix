@@ -49,6 +49,7 @@
 * [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 * [Explainix](https://zaynetro.com/explainix) - Explain Nix syntax visually.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
+* [Learn X in Y Minutes](https://learnxinyminutes.com/nix/) [[de](https://learnxinyminutes.com/de/nix/)][[fr](https://learnxinyminutes.com/fr/nix/)][[sv](https://learnxinyminutes.com/sv/nix/)][[zh-cn](https://learnxinyminutes.com/zh-cn/nix/)] - Learn X in Y Minutes where X is Nix
 * [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
 * [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
 * [Nix in 100 Seconds](https://youtu.be/FJVFXsNzYZQ?si=lf_HgLiHYAnX-_vx) - A YouTube video from Fireship presenting Nix in 100 seconds.
