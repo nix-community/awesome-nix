@@ -135,6 +135,7 @@
 * [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 * [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) - A formatter that allows formatting all your project files with a single command, all via a single nix file.
 
 ## Development
 
