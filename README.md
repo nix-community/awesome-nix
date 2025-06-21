@@ -181,6 +181,7 @@
 * [services-flake](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 * [Snowfall Lib](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 * [templates](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file.
 
 ## DevOps
 
