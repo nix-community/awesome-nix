@@ -5,6 +5,7 @@ Here lie the following former awesome-list members as they have been archived, d
 ## Contents
 
 * [Resources](#resources)
+    * [Learning](#learning)
     * [Newsletters](#newsletters)
 * [Programming Languages](#programming-languages)
     * [Haskell](#haskell)
@@ -15,6 +16,10 @@ Here lie the following former awesome-list members as they have been archived, d
 * [NixOS Modules](#nixos-modules)
 
 ## Resources
+
+### Learning
+
+* [Building a Rust service with Nix](https://web.archive.org/web/20250514223427/https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 
 ### Newsletters
 
