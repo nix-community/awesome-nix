@@ -1,6 +1,16 @@
-# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="NixOS">](https://nixos.org)
+# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<a href="https://nixos.org">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-white.png">
+    <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos.svg" align="right" width="250" alt="NixOS logo">
+  </picture>
+</a>
 
 > A curated list of the best resources in the Nix community.
+
+<br>
 
 [Nix](https://github.com/nixos/nix) is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
@@ -124,7 +134,7 @@
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
-* [nh](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manger CLI using `nvd` and `nix-output-monitor`.
+* [nh](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manager CLI using `nvd` and `nix-output-monitor`.
 * [nixfmt](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
@@ -159,6 +169,7 @@
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
+* [MCP-NixOS](https://github.com/utensils/mcp-nixos) - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and nix-darwin configurations.
 * [namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 * [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
@@ -174,6 +185,7 @@
 * [services-flake](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 * [Snowfall Lib](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 * [templates](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file.
 
 ## DevOps
 
@@ -281,7 +293,7 @@
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
-* [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+* [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 * [nix-topology](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
