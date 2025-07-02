@@ -145,6 +145,7 @@
 * [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 * [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
+* [optnix](https://github.com/water-sucks/optnix) - Options searcher that evaluates options from your system, a souped up search.nixos.org in your terminal.
 
 ## Development
 
