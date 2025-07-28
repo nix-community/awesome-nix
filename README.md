@@ -129,6 +129,7 @@
 * [comma](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
+* [dix](https://github.com/faukah/dix) - Diff Nix; a super-fast tool to diff Nix related things.
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh](https://github.com/viperML/nh) - Better output for `nix` `nixos-rebuild` and home-manager CLI using `nvd` and `nix-output-monitor`.
 * [nixfmt](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
