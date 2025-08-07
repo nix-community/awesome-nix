@@ -175,6 +175,7 @@
 * [nixd](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [npins](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
+* [make-shell](https://github.com/nicknovitski/make-shell) - `mkShell` meets modules, a modular almost-drop-in replacement for `pkgs.mkShell` function.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
