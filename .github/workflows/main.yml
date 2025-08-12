@@ -15,7 +15,7 @@ jobs:
             system-features = benchmark big-parallel kvm nixos-test
           github_access_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ssh-key: ${{ secrets.REPO_KEY }}
           fetch-depth: 0 # Needed for repository age check
