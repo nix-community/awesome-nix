@@ -296,6 +296,7 @@
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NüschtOS Modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
