@@ -131,6 +131,7 @@
 ## Command-Line Tools
 
 * [alejandra](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+* [angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Roots Retention. This tool simply deletes auto GC roots based on the modified time of their symbolic link target.
 * [comma](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
