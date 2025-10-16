@@ -31,7 +31,7 @@ jobs:
 
       - name: Comment on failure
         id: fail-comment
-        uses: peter-evans/create-or-update-comment@v4
+        uses: peter-evans/create-or-update-comment@v5
         if: steps.lychee.outputs.exit_code != 0
         with:
           token: ${{ github.token }}
