@@ -235,6 +235,10 @@
 * [haxix](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 * [kebab](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
+### Julia
+
+* [Manifest2Nix.jl](https://github.com/lenianiva/Manifest2Nix.jl) - A Nix library for creating reproducible Julia builds.
+
 ### Lean
 
 * [lean4-nix](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
