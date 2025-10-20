@@ -36,6 +36,7 @@
     * [Gleam](#gleam)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
+    * [Julia](#julia)
     * [Lean](#lean)
     * [Node.js](#nodejs)
     * [OCaml](#ocaml)
