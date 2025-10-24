@@ -149,6 +149,7 @@
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 * [nixfmt](https://github.com/NixOS/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+* [nixos-cli](https://github.com/nix-community/nixos-cli) - Configurable all-in-one CLI for common NixOS tools with an emphasis on improved user experience.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 * [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
 * [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
