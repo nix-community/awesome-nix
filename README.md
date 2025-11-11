@@ -238,7 +238,7 @@
 
 ### Julia
 
-* [Manifest2Nix.jl](https://github.com/lenianiva/Manifest2Nix.jl) - A Nix library for creating reproducible Julia builds.
+* [Manifest2Nix.jl](https://codeberg.org/aniva/Manifest2Nix.jl) - A Nix library for creating reproducible Julia builds and experiments via precompilation.
 
 ### Lean
 
