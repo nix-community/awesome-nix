@@ -21,6 +21,6 @@ jobs:
           fetch-depth: 0 # Needed for repository age check
 
       - name: Run awesome-lint
-        run: nix run github:NixOS/nixpkgs/nixos-unstable#nodePackages.awesome-lint
+        run: nix run github:NixOS/nixpkgs/nixos-25.05#nodePackages.awesome-lint
         env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
