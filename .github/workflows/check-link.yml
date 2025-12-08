@@ -25,7 +25,7 @@ jobs:
 
       - name: lychee Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@01a5c94d8e012550040658854b90a7a7301e75ca
+        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0
         with:
           args: "--cache --max-cache-age 1d --verbose --no-progress README.md"
           token: ${{ github.token }}
