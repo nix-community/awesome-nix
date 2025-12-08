@@ -296,7 +296,6 @@
 
 ### Zig
 
-* [zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 * [zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
@@ -336,6 +335,7 @@
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 * [System Manager](https://github.com/numtide/system-manager) - A non-NixOS Linux system configuration tool built on Nix.
+* [zig-overlay](https://github.com/mitchellh/zig-overlay) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 
 ## Distributions
 
