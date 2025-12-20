@@ -67,6 +67,7 @@
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
 * [Nix Starter Config](https://github.com/Misterio77/nix-starter-configs) - A few simple Nix Flake templates for getting started with NixOS + home-manager.
+* [Nixcademy blog](https://nixcademy.com/posts/) - High quality guides and tutorials.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
