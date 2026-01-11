@@ -87,6 +87,7 @@
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [NüschtOS Search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 * [Searchix](https://searchix.ovh/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
+* [Nix Software](https://nixsoftware.voxelworld.ru/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
 
 ## Installation Media
 
