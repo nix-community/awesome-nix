@@ -6,6 +6,7 @@ Here lie the following former awesome-list members as they have been archived, d
 
 * [Resources](#resources)
     * [Newsletters](#newsletters)
+* [Channel History](#channel-history)
 * [Programming Languages](#programming-languages)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
@@ -19,6 +20,10 @@ Here lie the following former awesome-list members as they have been archived, d
 ### Newsletters
 
 * [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates. (Last update was made in 2021)
+
+## Channel History
+
+* [Channel History](https://channels.nix.gsc.io) - Get historical Git commits for Nix channels.
 
 ## Command-Line Tools
 
