@@ -296,6 +296,7 @@
 
 ### Zig
 
+* [zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 * [zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
