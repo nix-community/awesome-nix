@@ -181,7 +181,7 @@
 * [namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 * [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
-* [nix2container](https://github.com/nlewo/nix2container) - An efficient container development workflow with images built by Nix.
+* [nix2container](https://github.com/nlewo/nix2container) - An efficient container building workflow with Nix.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 * [nix-health](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
 * [nix-oci](https://github.com/Dauliac/nix-oci) - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
