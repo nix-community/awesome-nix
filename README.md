@@ -8,7 +8,7 @@
   </picture>
 </a>
 
-> A curated list of the best resources in the Nix community.
+A curated list of the best resources in the Nix community.
 
 <br>
 
