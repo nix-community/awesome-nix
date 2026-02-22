@@ -203,6 +203,7 @@ A curated list of the best resources in the Nix community.
 
 ## DevOps
 
+* [Hercules CI](https://hercules-ci.com/) - A Nix-based CI/CD service for building on any hardware.
 * [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [Nix GitLab CI](https://gitlab.com/TECHNOFAB/nix-gitlab-ci) - Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).
 * [nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
