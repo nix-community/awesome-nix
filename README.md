@@ -189,6 +189,7 @@ A curated list of the best resources in the Nix community.
 * [nix-oci](https://github.com/Dauliac/nix-oci) - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
 * [nix-update](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 * [nixd](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
+* [NixMkDocs](https://gitlab.com/TECHNOFAB/nixmkdocs) - Nix library for easy mkdocs integration into projects.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [Nixtest](https://gitlab.com/TECHNOFAB/nixtest) - Testing framework for Nix, with snapshot and unit test support, JUnit generation etc.
 * [npins](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
