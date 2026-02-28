@@ -125,6 +125,7 @@ A curated list of the best resources in the Nix community.
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
+* [Tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Combining Nix and Terraform for reproducibility and developer experience.
 
 ## Virtualisation
 
