@@ -319,6 +319,7 @@ A curated list of the best resources in the Nix community.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
+* [Concourse.nix](https://codeberg.org/aniva/Concourse.nix) - Declaratively manage [Concourse CI](https://concourse-ci.org/) web and worker services in Nix.
 
 ## NixOS Configuration Editors
 
