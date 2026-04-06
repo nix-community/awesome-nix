@@ -16,6 +16,7 @@ A curated list of the best resources in the Nix community.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Nix development workflow orchestration, automated package management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Resources](#resources)
