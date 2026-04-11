@@ -85,6 +85,7 @@ A curated list of the best resources in the Nix community.
 * [Home Manager Option Search](https://home-manager-options.extranix.com/) - Search through all 2000+ Home Manager options and read how to use them.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+* [Nix Software](https://nixsoftware.org/en) - Flathub flavor Nix / NixOS software search.
 * [nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [NüschtOS Search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
