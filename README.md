@@ -73,6 +73,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
 * [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format.
+* [NixOS test driver manual](https://applicative.systems/nixos-test-driver-manual/) - Opinionated NixOS test driver manual with quick getting started guides and best practices.
 * [Official Nix manual](https://nixos.org/manual/nix/stable) - Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.
 * [Official NixOS manual](https://nixos.org/manual/nixos/stable) - Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.
 * [Official Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable) - Latest stable version of the official Nixpkgs reference manual. Receives updates when available.
