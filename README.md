@@ -313,6 +313,7 @@ A curated list of the best resources in the Nix community.
 * [nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage macOS configuration just like on NixOS.
 * [nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 * [nix-topology](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
+* [NixoScope](https://github.com/giomf/nixoscope) - Visualize dependencies between NixOS modules. 
 * [NixOS hardware](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [NixVim](https://github.com/nix-community/nixvim) - A Neovim distribution built with Nix modules and Nixpkgs.
