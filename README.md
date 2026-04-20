@@ -346,6 +346,7 @@ A curated list of the best resources in the Nix community.
 
 * [nixbsd](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 * [NixNG](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [osModa](https://github.com/bolivian-peru/os-moda) - A NixOS distribution where an AI agent has root access through 91 typed MCP tools, with a hash-chained audit ledger and atomic SafeSwitch deploys (Apache 2.0).
 * [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community
