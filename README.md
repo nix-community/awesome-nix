@@ -60,6 +60,7 @@ A curated list of the best resources in the Nix community.
 * [Building a Rust service with Nix](https://fasterthanli.me/series/building-a-rust-service-with-nix) - An in-depth blog series about creating a Rust application with Nix.
 * [Explainix](https://zaynetro.com/explainix) - Explain Nix syntax visually.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
+* [Learn X in Y Minutes](https://learnxinyminutes.com/nix/) [[de](https://learnxinyminutes.com/de/nix/)][[fr](https://learnxinyminutes.com/fr/nix/)][[sv](https://learnxinyminutes.com/sv/nix/)][[zh-cn](https://learnxinyminutes.com/zh-cn/nix/)] - Learn X in Y Minutes where X is Nix.
 * [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
 * [nix-book](https://saylesss88.github.io) - A comprehensive guide to NixOS
   hardening and configuration.
