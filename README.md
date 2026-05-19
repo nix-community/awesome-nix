@@ -315,6 +315,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS hardware](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [NixVim](https://github.com/nix-community/nixvim) - A Neovim distribution built with Nix modules and Nixpkgs.
+* [nvf](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
