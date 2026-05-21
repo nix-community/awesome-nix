@@ -3,7 +3,7 @@
 Make sure your pull request follows these guidelines:
 
 - Search through the previous pull requests before making a new one! 🙏
-- Make sure you've personally used or benefited from the suggested resource.
+- Make sure you've personally used or benefited from the suggested resource, and you aren't the creator or maintainer of the resource. 👷
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Title](url) — description.`
 - Expand on why the resource is useful in your pull request if needed.
