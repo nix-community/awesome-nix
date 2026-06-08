@@ -161,6 +161,7 @@ A curated list of the best resources in the Nix community.
 
 ## Development
 
+* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for AI coding agents using bubblewrap on Linux and sandbox-exec on macOS.
 * [Arion](https://github.com/hercules-ci/arion) - Run `docker-compose` with help from Nix/NixOS.
 * [attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - A `nix-shell` replacement that uses caching to open subsequent shells quickly.
