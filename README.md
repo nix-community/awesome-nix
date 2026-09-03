@@ -312,6 +312,7 @@ A curated list of the best resources in the Nix community.
 ## NixOS Modules
 
 * [base16.nix](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+* [Concourse.nix](https://codeberg.org/aniva/Concourse.nix) - Declaratively manage [Concourse CI](https://concourse-ci.org/) web and worker services in Nix.
 * [Home Manager](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 * [impermanence](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
