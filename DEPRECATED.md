@@ -6,6 +6,7 @@ Here lie the following former awesome-list members as they have been archived, d
 
 * [Resources](#resources)
     * [Newsletters](#newsletters)
+* [Installation Media](#installation-media)
 * [Channel History](#channel-history)
 * [DevOps](#DevOps)
 * [Programming Languages](#programming-languages)
@@ -22,6 +23,10 @@ Here lie the following former awesome-list members as they have been archived, d
 ### Newsletters
 
 * [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates. (Last update was made in 2021)
+
+## Installation Media
+
+* [nixos-generators](https://github.com/nix-community/nixos-generators) — Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs. (Deprecated in favor of `nixos-rebuild build-image`)
 
 ## Channel History
 
