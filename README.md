@@ -149,6 +149,7 @@ A curated list of the best resources in the Nix community.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
 * [nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+* [nix-graph](https://github.com/AlexAntonik/nix-graph) - Interactive TUI viewer for Nix dependency graphs.
 * [nix-index](https://github.com/nix-community/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 * [nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
