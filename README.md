@@ -317,7 +317,7 @@ A curated list of the best resources in the Nix community.
 * [musnix](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage macOS configuration just like on NixOS.
-* [nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+* [nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS.
 * [nix-topology](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 * [NixOS hardware](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
