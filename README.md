@@ -144,7 +144,7 @@ A curated list of the best resources in the Nix community.
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 * [dix](https://github.com/manic-systems/dix) - Diff Nix; a super-fast tool to diff Nix related things.
-* [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
+* [manix](https://github.com/nix-community/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh](https://github.com/nix-community/nh) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - A tool to explain why two Nix derivations differ.
